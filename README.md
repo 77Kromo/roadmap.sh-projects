@@ -2,9 +2,8 @@
 
 
 ## **Frontend**
-1. [Single-Page CV](https://roadmap.sh/projects/single-page-cv) ![alt text](![image](https://github.com/user-attachments/assets/252bf671-d18b-43e2-b614-36e1da49faa6)
-)
-
+1. [Single-Page CV](https://roadmap.sh/projects/single-page-cv) 
+![alt text](https://raw.githubusercontent.com/77Kromo/roadmap.sh-projects/main/Frontend-projects/Single-Page-CV/Single-Page-CV.png)
 ## *Features*
 
 - Responsive design using CSS media queries
