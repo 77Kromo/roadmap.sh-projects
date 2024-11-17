@@ -1,7 +1,8 @@
-# **Single-Page CV**
+# **Roadmap.sh-Projects**
 
 
-This is a single-page CV built using HTML and CSS. It showcases the skills, education, and work experience of Krowey Richmond Borquaye, a Junior Frontend Developer.
+## **Frontend**
+1. [Single-Page CV](https://roadmap.sh/projects/single-page-cv)
 
 ## *Features*
 
@@ -13,14 +14,13 @@ This is a single-page CV built using HTML and CSS. It showcases the skills, educ
 ## *Usage*
 
 1. Clone the repository to your local machine.
-2. Open the `index.html` file in your preferred web browser.
+2. Open the file in your preferred web browser.
 3. Customize the content as needed to reflect your personal information.
 4. Click on the links to navigate to external websites.
 
 ## *Credits*
 
 This project was built by Krowey Richmond Borquaye.
-The design and layout are inspired by [Roadmap](https://roadmap.sh/projects/single-page-cv).
 
 ## *License*
 
