@@ -10,10 +10,10 @@
   </a>
 </p>
 
-## **Click any of the images below to view the readme and live demo of the project.**
+## **Click any of the images below to view the project.**
 <p align="left">
   <a href='https://github.com/77Kromo/roadmap.sh-projects/blob/main/Frontend-projects/Single-Page-CV'>
-    <img width="120px" height="160px" src='https://github.com/77Kromo/roadmap.sh-projects/blob/main/Frontend-projects/Single-Page-CV/Single-Page-CV.png?raw=true' alt='Single Page CV' />
+    <img width="200px" height="300px" src='https://github.com/77Kromo/roadmap.sh-projects/blob/main/Frontend-projects/Single-Page-CV/Single-Page-CV.png?raw=true' alt='Single Page CV' />
   </a>
 </p>
 
