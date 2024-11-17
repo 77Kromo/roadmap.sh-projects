@@ -6,7 +6,7 @@
 1. [Single-Page CV](https://roadmap.sh/projects/single-page-cv) 
 <p align="left">
   <a href='https://github.com/77Kromo/roadmap.sh-projects/blob/main/Frontend-projects/Single-Page-CV/README.md'>
-    <img width="48%" src='https://github.com/77Kromo/roadmap.sh-projects/blob/main/Frontend-projects/Single-Page-CV/Single-Page-CV.png?raw=true' alt='Single Page CV' />
+    <img width="100px" height="100px" src='https://github.com/77Kromo/roadmap.sh-projects/blob/main/Frontend-projects/Single-Page-CV/Single-Page-CV.png?raw=true' alt='Single Page CV' />
   </a>
 </p>
 
