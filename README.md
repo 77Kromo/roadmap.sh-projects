@@ -2,7 +2,8 @@
 
 
 ## **Frontend**
-1. [Single-Page CV](https://roadmap.sh/projects/single-page-cv) ![alt text]((https://github.com/77Kromo/roadmap.sh-projects/blob/main/Frontend-projects/Single-Page-CV/Single-Page-CV.png))
+1. [Single-Page CV](https://roadmap.sh/projects/single-page-cv) ![alt text](![image](https://github.com/user-attachments/assets/252bf671-d18b-43e2-b614-36e1da49faa6)
+)
 
 ## *Features*
 
