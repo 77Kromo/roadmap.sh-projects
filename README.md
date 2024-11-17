@@ -20,7 +20,7 @@ This is a single-page CV built using HTML and CSS. It showcases the skills, educ
 ## *Credits*
 
 This project was built by Krowey Richmond Borquaye.
-The design and layout are inspired by various online CV templates.
+The design and layout are inspired by [Roadmap](https://roadmap.sh/projects/single-page-cv).
 
 ## *License*
 
