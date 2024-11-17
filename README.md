@@ -2,8 +2,14 @@
 
 
 ## **Frontend**
+
 1. [Single-Page CV](https://roadmap.sh/projects/single-page-cv) 
-![alt text](https://raw.githubusercontent.com/77Kromo/roadmap.sh-projects/main/Frontend-projects/Single-Page-CV/Single-Page-CV.png)
+<p align="left">
+  <a href='https://github.com/77Kromo/roadmap.sh-projects/blob/main/Frontend-projects/Single-Page-CV/README.md'>
+    <img width="48%" src='https://github.com/77Kromo/roadmap.sh-projects/blob/main/Frontend-projects/Single-Page-CV/Single-Page-CV.png?raw=true' alt='Single Page CV' />
+  </a>
+</p>
+
 ## *Features*
 
 - Responsive design using CSS media queries
